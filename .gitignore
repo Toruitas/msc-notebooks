@@ -22,3 +22,4 @@ gensim1/*
 */Reddit/title_bow_counts.pkl
 */Reddit/title_bow_counts
 
+'Author pred.ipynb'
